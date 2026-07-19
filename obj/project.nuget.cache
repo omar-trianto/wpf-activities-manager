@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ltUCQWoJGwc=",
+  "dgSpecHash": "7NPS8aC5TkA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\arief\\OneDrive - TAFE NSW\\Cert IV Programming\\Programming\\Project\\part 3\\activities-wpf\\activities-wpf.csproj",
+  "projectFilePath": "C:\\Users\\arief\\Desktop\\repo\\wpf-activities-manager\\activities-wpf.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\arief\\.nuget\\packages\\csvhelper\\33.1.0\\csvhelper.33.1.0.nupkg.sha512",
     "C:\\Users\\arief\\.nuget\\packages\\extended.wpf.toolkit\\5.0.0\\extended.wpf.toolkit.5.0.0.nupkg.sha512",

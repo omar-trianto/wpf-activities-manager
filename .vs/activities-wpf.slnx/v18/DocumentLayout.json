@@ -1,49 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\arief\\OneDrive - TAFE NSW\\Cert IV Programming\\Programming\\Project\\part 3\\activities-wpf\\",
+  "WorkspaceRootPath": "C:\\Users\\arief\\Desktop\\repo\\wpf-activities-manager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D53B015C-42AE-B9C5-73C6-FF99501AD0CF}|activities-wpf.csproj|c:\\users\\arief\\onedrive - tafe nsw\\cert iv programming\\programming\\project\\part 3\\activities-wpf\\repositories\\activityrepodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D53B015C-42AE-B9C5-73C6-FF99501AD0CF}|activities-wpf.csproj|c:\\users\\arief\\desktop\\repo\\wpf-activities-manager\\repositories\\activityrepodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D53B015C-42AE-B9C5-73C6-FF99501AD0CF}|activities-wpf.csproj|solutionrelative:repositories\\activityrepodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D53B015C-42AE-B9C5-73C6-FF99501AD0CF}|activities-wpf.csproj|c:\\users\\arief\\onedrive - tafe nsw\\cert iv programming\\programming\\project\\part 3\\activities-wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D53B015C-42AE-B9C5-73C6-FF99501AD0CF}|activities-wpf.csproj|c:\\users\\arief\\desktop\\repo\\wpf-activities-manager\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D53B015C-42AE-B9C5-73C6-FF99501AD0CF}|activities-wpf.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D53B015C-42AE-B9C5-73C6-FF99501AD0CF}|activities-wpf.csproj|c:\\users\\arief\\onedrive - tafe nsw\\cert iv programming\\programming\\project\\part 3\\activities-wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{D53B015C-42AE-B9C5-73C6-FF99501AD0CF}|activities-wpf.csproj|c:\\users\\arief\\desktop\\repo\\wpf-activities-manager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{D53B015C-42AE-B9C5-73C6-FF99501AD0CF}|activities-wpf.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D53B015C-42AE-B9C5-73C6-FF99501AD0CF}|activities-wpf.csproj|c:\\users\\arief\\onedrive - tafe nsw\\cert iv programming\\programming\\project\\part 3\\activities-wpf\\repositories\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D53B015C-42AE-B9C5-73C6-FF99501AD0CF}|activities-wpf.csproj|c:\\users\\arief\\desktop\\repo\\wpf-activities-manager\\repositories\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D53B015C-42AE-B9C5-73C6-FF99501AD0CF}|activities-wpf.csproj|solutionrelative:repositories\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D53B015C-42AE-B9C5-73C6-FF99501AD0CF}|activities-wpf.csproj|c:\\users\\arief\\onedrive - tafe nsw\\cert iv programming\\programming\\project\\part 3\\activities-wpf\\repositories\\activityrepocsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D53B015C-42AE-B9C5-73C6-FF99501AD0CF}|activities-wpf.csproj|c:\\users\\arief\\desktop\\repo\\wpf-activities-manager\\repositories\\activityrepocsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D53B015C-42AE-B9C5-73C6-FF99501AD0CF}|activities-wpf.csproj|solutionrelative:repositories\\activityrepocsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D53B015C-42AE-B9C5-73C6-FF99501AD0CF}|activities-wpf.csproj|c:\\users\\arief\\onedrive - tafe nsw\\cert iv programming\\programming\\project\\part 3\\activities-wpf\\datamodel\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D53B015C-42AE-B9C5-73C6-FF99501AD0CF}|activities-wpf.csproj|c:\\users\\arief\\desktop\\repo\\wpf-activities-manager\\datamodel\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D53B015C-42AE-B9C5-73C6-FF99501AD0CF}|activities-wpf.csproj|solutionrelative:datamodel\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D53B015C-42AE-B9C5-73C6-FF99501AD0CF}|activities-wpf.csproj|c:\\users\\arief\\onedrive - tafe nsw\\cert iv programming\\programming\\project\\part 3\\activities-wpf\\datamodel\\fitnessactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D53B015C-42AE-B9C5-73C6-FF99501AD0CF}|activities-wpf.csproj|c:\\users\\arief\\desktop\\repo\\wpf-activities-manager\\datamodel\\fitnessactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D53B015C-42AE-B9C5-73C6-FF99501AD0CF}|activities-wpf.csproj|solutionrelative:datamodel\\fitnessactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D53B015C-42AE-B9C5-73C6-FF99501AD0CF}|activities-wpf.csproj|c:\\users\\arief\\onedrive - tafe nsw\\cert iv programming\\programming\\project\\part 3\\activities-wpf\\datamodel\\entertainmentactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D53B015C-42AE-B9C5-73C6-FF99501AD0CF}|activities-wpf.csproj|c:\\users\\arief\\desktop\\repo\\wpf-activities-manager\\datamodel\\entertainmentactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D53B015C-42AE-B9C5-73C6-FF99501AD0CF}|activities-wpf.csproj|solutionrelative:datamodel\\entertainmentactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D53B015C-42AE-B9C5-73C6-FF99501AD0CF}|activities-wpf.csproj|c:\\users\\arief\\onedrive - tafe nsw\\cert iv programming\\programming\\project\\part 3\\activities-wpf\\activities-wpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{D53B015C-42AE-B9C5-73C6-FF99501AD0CF}|activities-wpf.csproj|c:\\users\\arief\\desktop\\repo\\wpf-activities-manager\\activities-wpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{D53B015C-42AE-B9C5-73C6-FF99501AD0CF}|activities-wpf.csproj|solutionrelative:activities-wpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D53B015C-42AE-B9C5-73C6-FF99501AD0CF}|activities-wpf.csproj|c:\\users\\arief\\onedrive - tafe nsw\\cert iv programming\\programming\\project\\part 3\\activities-wpf\\mapper\\fitnessactivitymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D53B015C-42AE-B9C5-73C6-FF99501AD0CF}|activities-wpf.csproj|c:\\users\\arief\\desktop\\repo\\wpf-activities-manager\\mapper\\fitnessactivitymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D53B015C-42AE-B9C5-73C6-FF99501AD0CF}|activities-wpf.csproj|solutionrelative:mapper\\fitnessactivitymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D53B015C-42AE-B9C5-73C6-FF99501AD0CF}|activities-wpf.csproj|c:\\users\\arief\\onedrive - tafe nsw\\cert iv programming\\programming\\project\\part 3\\activities-wpf\\mapper\\entertainmentactivitymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D53B015C-42AE-B9C5-73C6-FF99501AD0CF}|activities-wpf.csproj|c:\\users\\arief\\desktop\\repo\\wpf-activities-manager\\mapper\\entertainmentactivitymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D53B015C-42AE-B9C5-73C6-FF99501AD0CF}|activities-wpf.csproj|solutionrelative:mapper\\entertainmentactivitymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -60,11 +60,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ActivityRepoDB.cs",
-              "DocumentMoniker": "C:\\Users\\arief\\OneDrive - TAFE NSW\\Cert IV Programming\\Programming\\Project\\part 3\\activities-wpf\\Repositories\\ActivityRepoDB.cs",
+              "DocumentMoniker": "C:\\Users\\arief\\Desktop\\repo\\wpf-activities-manager\\Repositories\\ActivityRepoDB.cs",
               "RelativeDocumentMoniker": "Repositories\\ActivityRepoDB.cs",
-              "ToolTip": "C:\\Users\\arief\\OneDrive - TAFE NSW\\Cert IV Programming\\Programming\\Project\\part 3\\activities-wpf\\Repositories\\ActivityRepoDB.cs",
+              "ToolTip": "C:\\Users\\arief\\Desktop\\repo\\wpf-activities-manager\\Repositories\\ActivityRepoDB.cs",
               "RelativeToolTip": "Repositories\\ActivityRepoDB.cs",
-              "ViewState": "AgIAAL8AAAAAAAAAAAAqwOoAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAADUAAAAAAAAAAAAswOoAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-27T03:02:37.646Z",
               "EditorCaption": ""
@@ -73,9 +73,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "activities-wpf.csproj",
-              "DocumentMoniker": "C:\\Users\\arief\\OneDrive - TAFE NSW\\Cert IV Programming\\Programming\\Project\\part 3\\activities-wpf\\activities-wpf.csproj",
+              "DocumentMoniker": "C:\\Users\\arief\\Desktop\\repo\\wpf-activities-manager\\activities-wpf.csproj",
               "RelativeDocumentMoniker": "activities-wpf.csproj",
-              "ToolTip": "C:\\Users\\arief\\OneDrive - TAFE NSW\\Cert IV Programming\\Programming\\Project\\part 3\\activities-wpf\\activities-wpf.csproj",
+              "ToolTip": "C:\\Users\\arief\\Desktop\\repo\\wpf-activities-manager\\activities-wpf.csproj",
               "RelativeToolTip": "activities-wpf.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -85,9 +85,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "EntertainmentActivityMapper.cs",
-              "DocumentMoniker": "C:\\Users\\arief\\OneDrive - TAFE NSW\\Cert IV Programming\\Programming\\Project\\part 3\\activities-wpf\\Mapper\\EntertainmentActivityMapper.cs",
+              "DocumentMoniker": "C:\\Users\\arief\\Desktop\\repo\\wpf-activities-manager\\Mapper\\EntertainmentActivityMapper.cs",
               "RelativeDocumentMoniker": "Mapper\\EntertainmentActivityMapper.cs",
-              "ToolTip": "C:\\Users\\arief\\OneDrive - TAFE NSW\\Cert IV Programming\\Programming\\Project\\part 3\\activities-wpf\\Mapper\\EntertainmentActivityMapper.cs",
+              "ToolTip": "C:\\Users\\arief\\Desktop\\repo\\wpf-activities-manager\\Mapper\\EntertainmentActivityMapper.cs",
               "RelativeToolTip": "Mapper\\EntertainmentActivityMapper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -97,9 +97,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "FitnessActivityMapper.cs",
-              "DocumentMoniker": "C:\\Users\\arief\\OneDrive - TAFE NSW\\Cert IV Programming\\Programming\\Project\\part 3\\activities-wpf\\Mapper\\FitnessActivityMapper.cs",
+              "DocumentMoniker": "C:\\Users\\arief\\Desktop\\repo\\wpf-activities-manager\\Mapper\\FitnessActivityMapper.cs",
               "RelativeDocumentMoniker": "Mapper\\FitnessActivityMapper.cs",
-              "ToolTip": "C:\\Users\\arief\\OneDrive - TAFE NSW\\Cert IV Programming\\Programming\\Project\\part 3\\activities-wpf\\Mapper\\FitnessActivityMapper.cs",
+              "ToolTip": "C:\\Users\\arief\\Desktop\\repo\\wpf-activities-manager\\Mapper\\FitnessActivityMapper.cs",
               "RelativeToolTip": "Mapper\\FitnessActivityMapper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -109,9 +109,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "ActivityRepoCSV.cs",
-              "DocumentMoniker": "C:\\Users\\arief\\OneDrive - TAFE NSW\\Cert IV Programming\\Programming\\Project\\part 3\\activities-wpf\\Repositories\\ActivityRepoCSV.cs",
+              "DocumentMoniker": "C:\\Users\\arief\\Desktop\\repo\\wpf-activities-manager\\Repositories\\ActivityRepoCSV.cs",
               "RelativeDocumentMoniker": "Repositories\\ActivityRepoCSV.cs",
-              "ToolTip": "C:\\Users\\arief\\OneDrive - TAFE NSW\\Cert IV Programming\\Programming\\Project\\part 3\\activities-wpf\\Repositories\\ActivityRepoCSV.cs",
+              "ToolTip": "C:\\Users\\arief\\Desktop\\repo\\wpf-activities-manager\\Repositories\\ActivityRepoCSV.cs",
               "RelativeToolTip": "Repositories\\ActivityRepoCSV.cs",
               "ViewState": "AgIAAFMAAAAAAAAAAAAAAGYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -121,9 +121,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "IRepo.cs",
-              "DocumentMoniker": "C:\\Users\\arief\\OneDrive - TAFE NSW\\Cert IV Programming\\Programming\\Project\\part 3\\activities-wpf\\Repositories\\IRepo.cs",
+              "DocumentMoniker": "C:\\Users\\arief\\Desktop\\repo\\wpf-activities-manager\\Repositories\\IRepo.cs",
               "RelativeDocumentMoniker": "Repositories\\IRepo.cs",
-              "ToolTip": "C:\\Users\\arief\\OneDrive - TAFE NSW\\Cert IV Programming\\Programming\\Project\\part 3\\activities-wpf\\Repositories\\IRepo.cs",
+              "ToolTip": "C:\\Users\\arief\\Desktop\\repo\\wpf-activities-manager\\Repositories\\IRepo.cs",
               "RelativeToolTip": "Repositories\\IRepo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -133,9 +133,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "FitnessActivity.cs",
-              "DocumentMoniker": "C:\\Users\\arief\\OneDrive - TAFE NSW\\Cert IV Programming\\Programming\\Project\\part 3\\activities-wpf\\DataModel\\FitnessActivity.cs",
+              "DocumentMoniker": "C:\\Users\\arief\\Desktop\\repo\\wpf-activities-manager\\DataModel\\FitnessActivity.cs",
               "RelativeDocumentMoniker": "DataModel\\FitnessActivity.cs",
-              "ToolTip": "C:\\Users\\arief\\OneDrive - TAFE NSW\\Cert IV Programming\\Programming\\Project\\part 3\\activities-wpf\\DataModel\\FitnessActivity.cs",
+              "ToolTip": "C:\\Users\\arief\\Desktop\\repo\\wpf-activities-manager\\DataModel\\FitnessActivity.cs",
               "RelativeToolTip": "DataModel\\FitnessActivity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -145,9 +145,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "EntertainmentActivity.cs",
-              "DocumentMoniker": "C:\\Users\\arief\\OneDrive - TAFE NSW\\Cert IV Programming\\Programming\\Project\\part 3\\activities-wpf\\DataModel\\EntertainmentActivity.cs",
+              "DocumentMoniker": "C:\\Users\\arief\\Desktop\\repo\\wpf-activities-manager\\DataModel\\EntertainmentActivity.cs",
               "RelativeDocumentMoniker": "DataModel\\EntertainmentActivity.cs",
-              "ToolTip": "C:\\Users\\arief\\OneDrive - TAFE NSW\\Cert IV Programming\\Programming\\Project\\part 3\\activities-wpf\\DataModel\\EntertainmentActivity.cs",
+              "ToolTip": "C:\\Users\\arief\\Desktop\\repo\\wpf-activities-manager\\DataModel\\EntertainmentActivity.cs",
               "RelativeToolTip": "DataModel\\EntertainmentActivity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -157,9 +157,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Activity.cs",
-              "DocumentMoniker": "C:\\Users\\arief\\OneDrive - TAFE NSW\\Cert IV Programming\\Programming\\Project\\part 3\\activities-wpf\\DataModel\\Activity.cs",
+              "DocumentMoniker": "C:\\Users\\arief\\Desktop\\repo\\wpf-activities-manager\\DataModel\\Activity.cs",
               "RelativeDocumentMoniker": "DataModel\\Activity.cs",
-              "ToolTip": "C:\\Users\\arief\\OneDrive - TAFE NSW\\Cert IV Programming\\Programming\\Project\\part 3\\activities-wpf\\DataModel\\Activity.cs",
+              "ToolTip": "C:\\Users\\arief\\Desktop\\repo\\wpf-activities-manager\\DataModel\\Activity.cs",
               "RelativeToolTip": "DataModel\\Activity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -169,9 +169,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\arief\\OneDrive - TAFE NSW\\Cert IV Programming\\Programming\\Project\\part 3\\activities-wpf\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\arief\\Desktop\\repo\\wpf-activities-manager\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "C:\\Users\\arief\\OneDrive - TAFE NSW\\Cert IV Programming\\Programming\\Project\\part 3\\activities-wpf\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\arief\\Desktop\\repo\\wpf-activities-manager\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-05-06T04:42:41.455Z"
@@ -180,9 +180,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\arief\\OneDrive - TAFE NSW\\Cert IV Programming\\Programming\\Project\\part 3\\activities-wpf\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\arief\\Desktop\\repo\\wpf-activities-manager\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\arief\\OneDrive - TAFE NSW\\Cert IV Programming\\Programming\\Project\\part 3\\activities-wpf\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\arief\\Desktop\\repo\\wpf-activities-manager\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
               "ViewState": "AgIAADMAAAAAAAAAAAAowFAAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

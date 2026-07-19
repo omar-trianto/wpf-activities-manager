@@ -1117,11 +1117,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\arief\\OneDrive - TAFE NSW\\Cert IV Programming\\Programming\\Project\\part 3\\activities-wpf\\activities-wpf.csproj",
+      "projectUniqueName": "C:\\Users\\arief\\Desktop\\repo\\wpf-activities-manager\\activities-wpf.csproj",
       "projectName": "activities-wpf",
-      "projectPath": "C:\\Users\\arief\\OneDrive - TAFE NSW\\Cert IV Programming\\Programming\\Project\\part 3\\activities-wpf\\activities-wpf.csproj",
+      "projectPath": "C:\\Users\\arief\\Desktop\\repo\\wpf-activities-manager\\activities-wpf.csproj",
       "packagesPath": "C:\\Users\\arief\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\arief\\OneDrive - TAFE NSW\\Cert IV Programming\\Programming\\Project\\part 3\\activities-wpf\\obj\\",
+      "outputPath": "C:\\Users\\arief\\Desktop\\repo\\wpf-activities-manager\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1194,7 +1194,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
